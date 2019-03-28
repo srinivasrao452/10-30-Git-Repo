@@ -8,7 +8,7 @@
   {
     "eno": 20,
     "ename": "Virat",
-    "esal": "25000.00",
-    "eaddr": "Mumbai 2"
+    "esal": "20000.00",
+    "eaddr": "Old Mumbai"
   }
 ]
